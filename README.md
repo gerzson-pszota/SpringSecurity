@@ -1,0 +1,6 @@
+-The application is communicating with a third-party API.  
+-It connects to a SQL database and store the received data there.  
+-It has a REST endpoint where the entries from the database are listed  
+-Connection details are being read from environment variables.  
+-The Web API endpoints are authorized with a valid JWT Token. Using symmetric key to generate tokens with validation date.  
+-Retrofit is implemented in the application.

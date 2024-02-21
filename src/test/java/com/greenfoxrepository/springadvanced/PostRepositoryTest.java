@@ -1,4 +1,4 @@
-/*
+
 package com.greenfoxrepository.springadvanced;
 
 import com.greenfoxrepository.springadvanced.Models.Post;
@@ -49,4 +49,4 @@ public class PostRepositoryTest {
         assertThat(foundPost.getId()).isEqualTo(1L);
     }
 }
-*/
+
